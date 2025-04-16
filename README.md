@@ -53,7 +53,7 @@ This project is licensed under **MIT License** – see [LICENSE](LICENSE) for de
 ## 📧 **Contact**  
 For questions or collaborations, reach out to:  
 📩 **abid.hossain@student.univaq.it**  
-🔗 **LinkedIn**: [Your Profile](https://linkedin.com/in/abidanick)  
+🔗 **LinkedIn**: [Abid Hossain (Anik)](https://linkedin.com/in/abidanick)  
 
 ---  
 💡 *This project is part of a larger initiative to enhance data-driven decision-making in business operations.*
